@@ -8,7 +8,7 @@ This repository contains much more than just the Machine Learning Prediction Cla
 
 # Files
 - [PDF Presentation](https://github.com/tmcroyce/NBA_Prediction_Classification_Public/blob/master/Printed_PDF_Notebooks/NBA%20Prediction%20Presentation%20PDF.pdf)
-- Video Presentation *NOT COMPLETE*
+- Video Presentation of Streamlit Application *NOT COMPLETE*
 - Scraping Notebooks
   - [Player Data Scraping](https://github.com/tmcroyce/NBA_Prediction_Classification_Public/blob/master/Printed_PDF_Notebooks/1a_Player_Data_Scraping.pdf)
   - [Team Data Scraping](https://github.com/tmcroyce/NBA_Prediction_Classification_Public/blob/master/Printed_PDF_Notebooks/1b_Team_Data_Scraping.pdf)
