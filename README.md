@@ -1,7 +1,7 @@
-# NBA_Prediction_3_1-Public
 
-# NBA Machine Learning Prediction for Wins
-** ADD PHOTO**
+# NBA Machine Learning Prediction (Classification) for Team Wins
+
+![Basketball](images/ball.png)
 
 # Files
 - PDF Presentation *ADD*
