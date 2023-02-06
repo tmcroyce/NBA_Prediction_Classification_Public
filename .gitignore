@@ -1,0 +1,15 @@
+data
+NBA Project Organization.xlsx
+pickle_models
+old_git
+notebooks/3_Modeling/3a_Win_Classification.ipynb
+notebooks/3_Modeling/3c_Over_Under_Classification.ipynb
+notebooks_v3
+notebooks_v3_1/2_Feature_Creation/2c_Creating_Player_Metric_Cats.ipynb
+notebooks_v3_1/2_Feature_Creation/2d_Player_Metric_Features.ipynb
+notebooks_v3_1/3_Modelling/3a_Win_Classification.ipynb
+notebooks_v3_1/3_Modelling/3c_Over_Under_Classification.ipynb
+notebooks_v3_1/3_Modelling/3d_EDA.ipynb
+pickle_models
+printed_notebooks
+
