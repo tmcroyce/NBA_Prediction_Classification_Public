@@ -23,42 +23,51 @@ This repository contains much more than just the Machine Learning Prediction Cla
 - [Modeling Notebook](https://github.com/tmcroyce/NBA_Prediction_Classification_Public/blob/master/Printed_PDF_Notebooks/3_Win_Classification.pdf)
 
 # Data
-- Add Data Info
-
+- Data was scraped from NBA.com, basketball_reference.com, hoopshype.com, and a small amount from bigdataball.com. 
+- 
 # Project Overview
+The purpose of this project is to create a model to predict the outcome of NBA (National Basketball Association) games. 
+
+The final model tested at 83 percent (rounded). 
 
 
-### Stakeholders: 
+### Stakeholders: Bookkeepers, bettors, and speculators. 
 
 
-
-### Project end result
-
-
-# Data Overview
-
-## Sources:
-  - 
-  - 
-  -
-  -
-  
-## Data Description
+This project's end result will be an application which can help identify descrepancies between the "Vegas" odds of a fight and the model-predicted (i.e., theoretically more accurate) odds of that same fight. This could be used by bookmakers to increase revenues by offering slightly "better" odds than competitor bookmakers, given the model indicates it is appropriate. Alternatively, it could simply be used by bookmakers to create more accurate odds than previously, or give individual speculators or bettors insights into more accurate game probabilities. 
 
 
 ### Target Variable
 
+The target variable is if a fighter won an individual fight or not.
 
 ### Scoring Metric
 
-
-
-## Project Structure
-
+Because our data is evenly split between wins and losses, and there is no relative advantage between false negatives and false positives due to having one copy of data for each team for each game; accuracy is my chosen scoring metric.
 
 
 ## Testing and Modeling
+The initial model (decision tree) achieved an accuracy of 65%. 
 
+After iterating on a variety of models, including decision tree, logistic regression, bagged trees, extrra trees, KNN, and random forest, I found the best performing model to test at 83% accuracy. 
 
 
 ## Project Conclusion
+The final model achieved a 83% (rounded) accuracy. 
+The model's most important features included:
+    - Opening Spread
+    - Closing Spread
+    - Moneyline
+    - Estimate of Points Difference (my metric)
+    - Estimate of Points Difference based on 40 games (my metric)
+    - Home or Away
+    - Estimate of Points Difference based on 80 games (my metric)
+    - Estimate of Points Difference based on 20 games (my metric)
+    - Team 1 delta (to league) minue team 2 delta (to league) of +-
+    - Top 5 predicted winner (my metric, sum of player metrics for 5 best players in game)
+    
+  ... among many others. 
+  
+  
+
+
