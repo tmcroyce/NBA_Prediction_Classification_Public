@@ -7,7 +7,7 @@
 This repository contains much more than just the Machine Learning Prediction Classification Files, as it also contains all of the ancilary applications built off of the data that underpins the prediction. With that being said, here are the necessary scraping and prediction files:
 
 # Files
-- PDF Presentation *NOT COMPLETE*
+- [PDF Presentation](https://github.com/tmcroyce/NBA_Prediction_Classification_Public/blob/master/Printed_PDF_Notebooks/NBA%20Prediction%20Presentation%20PDF.pdf)
 - Video Presentation *NOT COMPLETE*
 - Scraping Notebooks
   - [Player Data Scraping](https://github.com/tmcroyce/NBA_Prediction_Classification_Public/blob/master/Printed_PDF_Notebooks/1a_Player_Data_Scraping.pdf)
