@@ -55,16 +55,16 @@ After iterating on a variety of models, including decision tree, logistic regres
 ## Project Conclusion
 The final model achieved a 83% (rounded) accuracy. 
 The model's most important features included:
-    - Opening Spread
-    - Closing Spread
-    - Moneyline
-    - Estimate of Points Difference (my metric)
-    - Estimate of Points Difference based on 40 games (my metric)
-    - Home or Away
-    - Estimate of Points Difference based on 80 games (my metric)
-    - Estimate of Points Difference based on 20 games (my metric)
-    - Team 1 delta (to league) minue team 2 delta (to league) of +-
-    - Top 5 predicted winner (my metric, sum of player metrics for 5 best players in game)
+- Opening Spread
+- Closing Spread
+- Moneyline
+- Estimate of Points Difference (my metric)
+- Estimate of Points Difference based on 40 games (my metric)
+- Home or Away
+- Estimate of Points Difference based on 80 games (my metric)
+- Estimate of Points Difference based on 20 games (my metric)
+- Team 1 delta (to league) minue team 2 delta (to league) of +-
+- Top 5 predicted winner (my metric, sum of player metrics for 5 best players in game)
     
   ... among many others. 
   
