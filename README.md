@@ -18,7 +18,7 @@ This repository contains much more than just the Machine Learning Prediction Cla
 - Feature Notebooks
     -  [Initial Team Features](https://github.com/tmcroyce/NBA_Prediction_Classification_Public/blob/master/Printed_PDF_Notebooks/2a_Initial_Team_Features.pdf)
     -  [More Team Features](https://github.com/tmcroyce/NBA_Prediction_Classification_Public/blob/master/Printed_PDF_Notebooks/2b_More_Team_Features.pdf)
-    -  Feature notebooks 2c and 2d are hidden for IP privacy, for a couple of algorithms I developed years ago. I would be happy to describe the metrics in general though. They are all trying to answer the question, 'for each posession, how much does a player add or take away from a team, considering offense and defense equally?' I will try to provide more clarity in the future.
+    -  Feature notebooks 2c and 2d are hidden for IP privacy, for a couple of algorithms I've developed over my basketball analytics brainstorming career (i.e., last decade). I would be happy to describe the metrics in general though. They are all trying to answer the question, 'for each posession, how much does a player add or take away from a team, considering offense and defense equally?' I will try to provide more clarity in the future.
     -  [Odds & Refs Features](https://github.com/tmcroyce/NBA_Prediction_Classification_Public/blob/master/Printed_PDF_Notebooks/2f_Odds_and_Refs_Features.pdf)
 - [Modeling Notebook](https://github.com/tmcroyce/NBA_Prediction_Classification_Public/blob/master/Printed_PDF_Notebooks/3_Win_Classification.pdf)
 
